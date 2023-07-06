@@ -24,7 +24,7 @@ header{
 
 #header1 > button:hover {
     /* background-color: black; */
-    background-color: rgb(231, 191, 43);
+    background-color: rgb(40, 163, 36);
     color: white;
 }
 
@@ -77,7 +77,7 @@ header{
 
 .kontak {
     width: 30%;
-    background-color:rgb(231, 191, 43);
+    background-color:rgb(40, 163, 36);
 }
 
 .form {
